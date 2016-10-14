@@ -211,6 +211,7 @@ UpgradeLog*.htm
 # SQL Server files
 *.mdf
 *.ldf
+*.sdf
 
 # Business Intelligence projects
 *.rdl.data
@@ -250,3 +251,9 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+SFML/
+Debug/
+*.sln
+*.vcxproj
+*.vcxproj.filters
