@@ -253,7 +253,3 @@ paket-files/
 *.sln.iml
 
 SFML/
-Debug/
-*.sln
-*.vcxproj
-*.vcxproj.filters
