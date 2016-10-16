@@ -84,7 +84,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="kol.cpp" />
+    <ClCompile Include="kose.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="top.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kol.h" />
+    <ClInclude Include="kose.h" />
+    <ClInclude Include="top.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
